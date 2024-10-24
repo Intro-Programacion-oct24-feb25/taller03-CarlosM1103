@@ -1,6 +1,9 @@
 Integrantes del grupo:
+
 Carlos Daniel Medina
+
 Bryan Michael Villa
+
 # Taller3
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
 
