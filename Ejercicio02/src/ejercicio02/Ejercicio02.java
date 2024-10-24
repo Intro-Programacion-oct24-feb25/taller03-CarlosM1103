@@ -19,7 +19,8 @@ public class Ejercicio02 {
         int var1 = 10;
         int var2 = 2;
         
-                
+        int resultado = (int) Math.pow(var1, var2)+(var1);
+        System.out.println(resultado);
     }
     
     
