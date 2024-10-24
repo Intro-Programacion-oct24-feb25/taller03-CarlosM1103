@@ -32,7 +32,7 @@ public class Ejercicio01 {
         
         
         
-        System.out.println(resultado);
+        System.out.println(resultado);  
 
     }
 

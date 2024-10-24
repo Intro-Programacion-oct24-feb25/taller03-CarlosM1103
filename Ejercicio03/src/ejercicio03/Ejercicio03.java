@@ -16,7 +16,14 @@ public class Ejercicio03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        int valor1 = 10;
+        int valor2 = 16;
+        int valor3 = 20;
+        int valor4= 1;
+        int valor5= 11;
+         
+        double resultado= Math.pow(valor1,2) + Math.sqrt(valor2) + (valor3/(valor4 + valor5)) ;
+        System.out.println(resultado);
     }
     
 }
